@@ -29,7 +29,7 @@ Welcome to the Recipe Book & Recipe Finder! This project is a web application th
    
 ## Usage
 <ol>
-<li>Open the index.html file in your web browser.</li>
+<li>Open th index.html file in your web browser.</li>
 <li>Enter a food or ingredient in the search input field.</li>
 <li>Click the search button to fetch and display recipes related to your search query.</li>
 </ol>
